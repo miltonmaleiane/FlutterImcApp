@@ -1,2 +1,2 @@
 # FlutterImcApp
-https://youtu.be/M0vJVpo4t-0
+A simple APP that calculates BODY MASS INDEX using Flutter
